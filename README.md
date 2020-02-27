@@ -32,6 +32,6 @@ php artisan db:seed
 <pre>
 php artisan serve
 </pre>
-Login
+- Login
 user@user.com
 user
